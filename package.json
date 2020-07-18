@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyperswarm/network.git"
+    "url": "git+https://github.com/dwswarm/network.git"
   },
   "keywords": [
-    "hyperswarm",
+    "dwswarm",
     "networking",
     "p2p",
     "network"
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hyperswarm/network/issues"
+    "url": "https://github.com/dwswarm/network/issues"
   },
-  "homepage": "https://github.com/hyperswarm/network#readme",
+  "homepage": "https://github.com/dwswarm/network#readme",
   "dependencies": {
     "dwswarm-discovery": "^1.1.0",
     "nanoresource": "^1.0.0",

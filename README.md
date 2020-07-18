@@ -1,15 +1,15 @@
-# @hyperswarm/network
+# dwswarm-network
 
 The low level networking guts of the Hyperswarm stack.
 
 ```
-npm install @hyperswarm/network
+npm install dwswarm-network
 ```
 
 ## Usage
 
 ``` js
-const network = require('@hyperswarm/network')()
+const network = require('dwswarm-network')()
 
 const nw = network()
 
